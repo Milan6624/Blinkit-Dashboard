@@ -1,6 +1,6 @@
 # Blinkit Sales Analysis – Power BI
 
-## 📊 Project Overview
+## Project Overview
 
 An interactive Power BI dashboard developed to analyze Blinkit's sales and outlet performance across different product categories, cities, and outlet locations.
 
@@ -10,7 +10,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze overall sales and product performance.
 - Identify sales trends across different outlet establishment years.
@@ -22,7 +22,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 
 ---
 
-## 📌 Key KPIs
+## Key KPIs
 
 - **Total Sales:** $1.20M
 - **Number of Items:** 8,523
@@ -31,26 +31,30 @@ The dashboard provides an interactive view of sales trends, product performance,
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### Sales Analysis
+
 - Total sales and average sales
 - Sales by outlet type
 - Sales by product category
 - Sales trends over outlet establishment year
 
 ### Product Analysis
+
 - Performance across 17 product categories
 - Fat-content analysis
 - Item-level sales comparison
 
 ### Outlet Analysis
+
 - Outlet size analysis
 - Outlet location analysis
 - Outlet type comparison
 - Outlet establishment trends
 
 ### Interactive Features
+
 - Outlet Location Type slicer
 - Outlet Size slicer
 - Item Type slicer
@@ -59,12 +63,15 @@ The dashboard provides an interactive view of sales trends, product performance,
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI**
 - **Power Query**
 - **Data Cleaning & Transformation**
 - **Data Visualization**
-## 📊 Dashboard Preview
 
-![Interactive Blinkit Dashboard](Interactive_Blinkit_Dashboard.png)
+---
+
+## Dashboard Preview
+
+![Interactive Blinkit Dashboard](https://github.com/Milan6624/Blinkit-Dashboard/raw/main/Interactive_Blinkit_Dashboard.png)
