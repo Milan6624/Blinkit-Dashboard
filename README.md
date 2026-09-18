@@ -65,3 +65,6 @@ The dashboard provides an interactive view of sales trends, product performance,
 - **Power Query**
 - **Data Cleaning & Transformation**
 - **Data Visualization**
+## 📊 Dashboard Preview
+
+![Interactive Blinkit Dashboard](Interactive_Blinkit_Dashboard.png)
