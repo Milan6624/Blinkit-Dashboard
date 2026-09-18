@@ -26,7 +26,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 
 - **Total Sales:** $1.20M
 - **Number of Items:** 8,523
-- **Average Sales:** $141
+- **Average Sales per Item:** $141
 - **Average Rating:** 3.9
 
 ---
