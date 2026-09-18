@@ -8,7 +8,7 @@ The dataset contains **8K+ product records across 17 product categories**, cover
 
 The dashboard provides an interactive view of sales trends, product performance, outlet characteristics, and customer ratings using KPIs, charts, slicers, and detailed tables.
 
----
+<hr style="height:1px;border:none;background-color:#d0d0d0;">
 
 ## Objectives
 
@@ -20,7 +20,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 - Analyze customer ratings across different outlet types.
 - Provide an interactive dashboard for business-level insights.
 
----
+<hr style="height:1px;border:none;background-color:#d0d0d0;">
 
 ## Key KPIs
 
@@ -29,7 +29,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 - **Average Sales per Item:** $141
 - **Average Rating:** 3.9
 
----
+<hr style="height:1px;border:none;background-color:#d0d0d0;">
 
 ## Dashboard Features
 
@@ -61,7 +61,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 - KPI cards
 - Interactive charts and tables
 
----
+<hr style="height:1px;border:none;background-color:#d0d0d0;">
 
 ## Tools & Technologies
 
@@ -70,7 +70,7 @@ The dashboard provides an interactive view of sales trends, product performance,
 - **Data Cleaning & Transformation**
 - **Data Visualization**
 
----
+<hr style="height:1px;border:none;background-color:#d0d0d0;">
 
 ## Dashboard Preview
 
